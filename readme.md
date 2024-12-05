@@ -2,6 +2,6 @@
 
 ---
 
-* Integrante 1
+* Andres Felipe Beltran Vanegas
 * Integrante 2
 
